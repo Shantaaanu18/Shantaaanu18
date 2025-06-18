@@ -28,6 +28,6 @@ Currently exploring DevOps, serverless architectures, and optimizing cloud costs
 ## 📫 Let’s Connect
 
 📧 shantanusk2002@gmail.com  
-🐙 [@Shantanu-Kulkarni](https://github.com/Shantanu-Kulkarni)  
-🔗 [LinkedIn](https://www.linkedin.com/in/Shantaaanu18)
+🐙 [@Shantanu-Kulkarni](https://github.com/Shantaaanu18)  
+🔗 [LinkedIn](https://www.linkedin.com/in/Shantanu-Kulkarni)
 
