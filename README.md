@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer with a passion for cloud technologies and automation. I enjoy building scalable apps using the **MERN stack** and deploying infrastructure using **Terraform** on **Azure**.  
 
-Currently exploring DevOps, serverless architectures, and optimizing cloud costs—one dashboard at a time.
+Currently exploring DevOps, serverless architectures, and optimizing cloud costs one dashboard at a time.
 
 ---
 
